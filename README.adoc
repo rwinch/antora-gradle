@@ -1,4 +1,4 @@
-Sample that uses https://github.com/rwinch/antora-gradle[antora-gradle-plugin] to run https://antora.org[Antora].
+Sample that uses https://github.com/rwinch/antora-gradle-plugin[antora-gradle-plugin] to run https://antora.org[Antora].
 To build use:
 
 [source,bash]
