@@ -23,3 +23,6 @@ atlassian-ide-plugin.xml
 !etc/eclipse/.checkstyle
 .checkstyle
 s101plugin.state
+node_modules/
+package.json
+package-lock.json
